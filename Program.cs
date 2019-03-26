@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
 
 namespace ConsoleApp1
 {
@@ -44,12 +43,12 @@ namespace ConsoleApp1
                 }
             }
 
-            Dictionary<int, Students> dict2 = new Dictionary<int, Students>();
-            dict2.Add(1, new Students() { Name = "Masha", Age = 22 });
-            dict2.Add(2, new Students() { Name = "Tom", Age = 25 });
+            Dictionary<int, Student> dict2 = new Dictionary<int, Student>();
+            dict2.Add(1, new Student() { Name = "Masha", Age = 22 });
+            dict2.Add(2, new Student() { Name = "Tom", Age = 25 });
             foreach (var item in dict2)
             {
-                Students data = item.Value;
+                Student data = item.Value;
                 var name = data.Name;
                 Console.WriteLine(name);
             }
@@ -57,14 +56,14 @@ namespace ConsoleApp1
 
         public static void WorkWithLists()
         {
-            List<Students> students = new List<Students>()
+            List<Student> students = new List<Student>()
             {
-                new Students
+                new Student
                 {
                     Name = "Tom",
                     Age = 12
                 },
-                new Students
+                new Student
                 {
                     Name = "Masha",
                     Age = 15
@@ -78,7 +77,7 @@ namespace ConsoleApp1
         }
     }
 
-    public class Students
+    public class Student
     {
         public string Name { get; set; }
         public int Age { get; set; }

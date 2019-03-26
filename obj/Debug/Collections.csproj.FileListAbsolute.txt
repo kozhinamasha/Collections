@@ -12,3 +12,10 @@ C:\Users\mariia.kozhyna\source\repos\ConsoleApp1\Collections\obj\Debug\Collectio
 C:\Users\mariia.kozhyna\source\repos\ConsoleApp1\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
 C:\Users\mariia.kozhyna\source\repos\ConsoleApp1\Collections\obj\Debug\ConsoleApp1.exe
 C:\Users\mariia.kozhyna\source\repos\ConsoleApp1\Collections\obj\Debug\ConsoleApp1.pdb
+C:\Users\mariia.kozhyna\Documents\Collections\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mariia.kozhyna\Documents\Collections\bin\Debug\ConsoleApp1.exe
+C:\Users\mariia.kozhyna\Documents\Collections\bin\Debug\ConsoleApp1.pdb
+C:\Users\mariia.kozhyna\Documents\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\mariia.kozhyna\Documents\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\mariia.kozhyna\Documents\Collections\obj\Debug\ConsoleApp1.exe
+C:\Users\mariia.kozhyna\Documents\Collections\obj\Debug\ConsoleApp1.pdb
